@@ -6,6 +6,10 @@
 ``` javascript
 var myVar = "I love Siamese Cats!"
 ```
+- [ ] Turn on GitHub
+- [ ] Follow the tutorial
+- [ ] Talk about Siamese Cats
+
 
 
 
